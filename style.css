@@ -1,14 +1,19 @@
 body{
-    background-color: rgb(55, 75, 92);
+    background-color: #eee;
+    font-family: sans-serif;
+}
+
+Header{
+    background-color: #A1D6B2;
 }
 
 .Main{
     padding-bottom: 1px;
-    background-color: rgb(255,235,225);
+    background-color: #CEDF9F;
+
 }
 
 .Underrubrik{
-    padding-top: 1px;
     padding-bottom: 1px;
-    background-color: blanchedalmond;
+    background-color: #F1F3C2;
 }
